@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AgrikMaz
+- 👀 I’m interested in Web Development (NextJS specially)
+- 🌱 I’m currently learning Deep Learning
+- 📫 Email me at agrikm.cse.ug@jadavpuruniversity.in
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love rapping!
